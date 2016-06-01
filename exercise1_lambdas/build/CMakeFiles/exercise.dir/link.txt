@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exercise.dir/exercise.cpp.o CMakeFiles/exercise.dir/test.cpp.o  -o exercise googletest/googlemock/libgmock_main.a 
