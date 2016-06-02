@@ -12,3 +12,4 @@ add_executable(
 
 target_link_libraries(exercise gmock_main)
 target_include_directories(exercise PRIVATE "../googletest/googletest/include")
+set_property(TARGET exercise PROPERTY CXX_STANDARD 14)
